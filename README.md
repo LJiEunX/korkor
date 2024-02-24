@@ -1,0 +1,2 @@
+# korkor
+buat belajar
